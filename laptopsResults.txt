@@ -1,0 +1,980 @@
+No:  1
+Title:  Laptop LENOVO ThinkBook 15 IIL, Intel Core i7-1065G7 pana la 3.9GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Plus Graphics, Free DOS, gri
+Price:  3.099
+Link:  https://altex.ro/laptop-lenovo-thinkbook-15-iil-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-plus-graphics-free-dos-gri/cpd/LAP20SM003JRM/
+
+
+No:  2
+Title:  Laptop Gaming ASUS TUF FX505DT-BQ121, AMD Ryzen 7 3750H pana la 4.0GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, Stealth Black
+Price:  3.399
+Link:  https://altex.ro/laptop-gaming-asus-tuf-fx505dt-bq121-amd-ryzen-7-3750h-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-stealth-black/cpd/LAPFX505DTBQ121/
+
+
+No:  3
+Title:  Laptop Gaming ASUS TUF F15 FX506LH-HN129, Intel Core i7-10870H pana la 5.0GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, negru
+Price:  3.999
+Link:  https://altex.ro/laptop-gaming-asus-tuf-f15-fx506lh-hn129-intel-core-i7-10870h-pana-la-5-0ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAPFX506LHHN129/
+
+
+No:  4
+Title:  Laptop Gaming DELL Inspiron 3500 G3, Intel Core i5-10300H pana la 4.5GHz, 15.6" Full HD, 8GB, 1TB + SSD 256GB, NVIDIA GeForce GTX 1650 4GB, Ubuntu, negru
+Price:  3.306
+Link:  https://altex.ro/laptop-gaming-dell-inspiron-3500-g3-intel-core-i5-10300h-pana-la-4-5ghz-15-6-full-hd-8gb-1tb-ssd-256gb-nvidia-geforce-gtx-1650-4gb-ubuntu-negru/cpd/LAP35008927/
+
+
+No:  5
+Title:  Laptop HP 15s-fq2000nq, Intel Core i7-1165G7 pana la 4.7GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, negru
+Price:  3.699
+Link:  https://altex.ro/laptop-hp-15s-fq2000nq-intel-core-i7-1165g7-pana-la-4-7ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-negru/cpd/LAP2L9V3EA/
+
+
+No:  6
+Title:  Laptop Gaming ASUS TUF F17 FX706LI-HX174, Intel Core i5-10300H pana la 4.5GHz, 17.3" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650Ti 4GB, Free DOS, gri inchis
+Price:  3.799
+Link:  https://altex.ro/laptop-gaming-asus-tuf-f17-fx706li-hx174-intel-core-i5-10300h-pana-la-4-5ghz-17-3-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650ti-4gb-free-dos-gri-inchis/cpd/LAPFX706LIHX174/
+
+
+No:  7
+Title:  Laptop 2 in 1 LENOVO Flex 5 14ALC05, AMD Ryzen 5 5500U pana la 4.0GHz, 14" Full HD Touch, 8GB, SSD 256GB, AMD Radeon Graphics, Windows 10 Home, Abyss Blue
+Price:  3.199
+Link:  https://altex.ro/laptop-2-in-1-lenovo-flex-5-14alc05-amd-ryzen-5-5500u-pana-la-4-0ghz-14-full-hd-touch-8gb-ssd-256gb-amd-radeon-graphics-windows-10-home-abyss-blue/cpd/LAP82HU0070RM/
+
+
+No:  8
+Title:  Laptop HP 15s-fq2033nq, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, negru
+Price:  3.099
+Link:  https://altex.ro/laptop-hp-15s-fq2033nq-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-negru/cpd/LAP3A8Z7EA/
+
+
+No:  9
+Title:  Laptop Gaming MSI GF63 Thin 10SC-069XRO, Intel Core i5-10300H pana la 4.5GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 Max-Q 4GB, Free DOS, negru
+Price:  3.199
+Link:  https://altex.ro/laptop-gaming-msi-gf63-thin-10sc-069xro-intel-core-i5-10300h-pana-la-4-5ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-max-q-4gb-free-dos-negru/cpd/LAPGF6310SC/
+
+
+No:  10
+Title:  Laptop HUAWEI MateBook D15 2021, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, argintiu
+Price:  3.499
+Link:  https://altex.ro/laptop-huawei-matebook-d-15-2021-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-argintiu/cpd/LAP53012BGM/
+
+
+No:  11
+Title:  Laptop HP 15s-fq2031nq, Intel Core i7-1165G7 pana la 4.7GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, argintiu
+Price:  3.299
+Link:  https://altex.ro/laptop-hp-15s-fq2031nq-intel-core-i7-1165g7-pana-la-4-7ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-argintiu/cpd/LAP3A8U0EA/
+
+
+No:  12
+Title:  Laptop Gaming LENOVO IdeaPad 3 15ARH05, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, negru
+Price:  3.299
+Link:  https://altex.ro/laptop-gaming-lenovo-ideapad-3-15arh05-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAP82EY00RNRM/
+
+
+No:  13
+Title:  Laptop HP 15s-fq2027nq, Intel Core i7-1165G7 pana la 4.7GHz, 15.6" Full HD, 16GB, SSD 1TB, Intel Iris Xe Graphics, Free Dos, auriu pal
+Price:  3.099
+Link:  https://altex.ro/laptop-hp-15s-fq2027nq-intel-core-i7-1165g7-pana-la-4-7ghz-15-6-full-hd-16gb-ssd-1tb-intel-iris-xe-graphics-free-dos-auriu-pal/cpd/LAP3A8T9EA/
+
+
+No:  14
+Title:  Laptop Gaming ASUS TUF A17 FA706IH-H7039, AMD Ryzen 7 4800H pana la 4.2GHz, 17.3" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-gaming-asus-tuf-a17-fa706ih-h7039-amd-ryzen-7-4800h-pana-la-4-2ghz-17-3-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAPFA706IHH7039/
+
+
+No:  15
+Title:  Laptop HUAWEI MateBook D15 2021, Intel Core i5-10210U pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, argintiu
+Price:  3.399
+Link:  https://altex.ro/laptop-huawei-matebook-d-15-2021-intel-core-i5-10210u-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-intel-uhd-graphics-windows-10-home-argintiu/cpd/LAP53012BNJ/
+
+
+No:  16
+Title:  Laptop DELL Vostro 3500, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 10 Pro, negru
+Price:  3.199
+Link:  https://altex.ro/laptop-dell-vostro-3500-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-windows-10-pro-negru/cpd/LAP35004629/
+
+
+No:  17
+Title:  Laptop Gaming ASUS TUF F15 FX506LH-HN042, Intel Core i5-10300H pana la 4.5GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-gaming-asus-tuf-f15-fx506lh-hn042-intel-core-i5-10300h-pana-la-4-5ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAPFX506LHHN042/
+
+
+No:  18
+Title:  Laptop ASUS Zenbook 13 OLED UX325EA-KG347, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, Lilac Mist
+Price:  3.298
+Link:  https://altex.ro/laptop-asus-zenbook-13-oled-ux325ea-kg347-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-lilac-mist/cpd/LAPUX325EAKG347/
+
+
+No:  19
+Title:  Laptop ASUS ZenBook 14 UX425EA-KI501, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD, 8GB, SSD 1TB, Intel Iris Xe, Free DOS, Pine Grey
+Price:  3.249
+Link:  https://altex.ro/laptop-asus-zenbook-14-ux425ea-ki501-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-8gb-ssd-1tb-intel-iris-xe-free-dos-pine-grey/cpd/LAPUX425EKI501/
+
+
+No:  20
+Title:  Laptop HUAWEI MateBook 14, AMD Ryzen 5 4600H pana la 4.0GHz, 14" QHD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, Space Gray
+Price:  3.799
+Link:  https://altex.ro/laptop-huawei-matebook-14-amd-ryzen-5-4600h-pana-la-4-0ghz-14-qhd-16gb-ssd-512gb-amd-radeon-graphics-windows-10-home-space-gray/cpd/LAP53011GSL/
+
+
+No:  21
+Title:  Laptop ASUS ZenBook 14 UM425IA-AM036T, AMD Ryzen 7 4700U pana la 4.1GHz, 14" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics. Windows 10 Home, Lilac Mist
+Price:  3.699
+Link:  https://altex.ro/laptop-asus-zenbook-14-um425ia-am036t-amd-ryzen-7-4700u-pana-la-4-1ghz-14-full-hd-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-lilac-mist/cpd/LAPUM425IAM036T/
+
+
+No:  22
+Title:  Laptop APPLE MacBook Air mqd32, Intel Core i5 pana la 2.9GHz, 13.3", 8GB, 128GB, Intel HD Graphics 6000, macOS Sierra, Silver - Tastatura layout INT
+Price:  3.599
+Link:  https://altex.ro/laptop-apple-macbook-air-mqd32-intel-core-i5-pana-la-2-9ghz-13-3-8gb-128gb-intel-hd-graphics-6000-macos-sierra-silver-tastatura-layout-int/cpd/LAPMQD3201/
+
+
+No:  23
+Title:  Laptop HUAWEI MateBook 13, AMD Ryzen 7 3700U pana la 4.0GHz, 13" 2K IPS, 16GB, SSD 512GB, AMD Radeon RX Vega 10 Graphics, Windows 10 Home, gri
+Price:  3.499
+Link:  https://altex.ro/laptop-huawei-matebook-13-amd-ryzen-7-3700u-pana-la-4-0ghz-13-2k-ips-16gb-ssd-512gb-amd-radeon-rx-vega-10-graphics-windows-10-home-gri/cpd/LAP53012CUW/
+
+
+No:  24
+Title:  Laptop HP Pavilion 15-eg0076nq, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, argintiu
+Price:  3.099
+Link:  https://altex.ro/laptop-hp-pavilion-15-eg0076nq-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-argintiu/cpd/LAP2M0G5EA/
+
+
+No:  25
+Title:  Laptop HP Pavilion 15-eg0071nq, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, argintiu
+Price:  3.099
+Link:  https://altex.ro/laptop-hp-pavilion-15-eg0071nq-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-argintiu/cpd/LAP2M0G2EA/
+
+
+No:  26
+Title:  Laptop Gaming LENOVO IdeaPad 3 15ARH05, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, negru
+Price:  3.904
+Link:  https://altex.ro/laptop-gaming-lenovo-ideapad-3-15arh05-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAP82EY007VRM/
+
+
+No:  27
+Title:  Laptop Gaming LENOVO Legion 5 17IMH05, Intel Core i5-10300H pana la 4.5GHz, 17.3" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, negru
+Price:  3.899
+Link:  https://altex.ro/laptop-gaming-lenovo-legion-5-17imh05-intel-core-i5-10300h-pana-la-4-5ghz-17-3-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAP82B3002SRM/
+
+
+No:  28
+Title:  Laptop 2 in 1 HP Pavilion x360 14-dw1025na, Intel Core i5-1135G7 pana la 4.2Ghz, 14" Full HD Touch, 16GB, SSD 512GB, Intel Iris Xe, Windows 10 Home, albastru
+Price:  3.799
+Link:  https://altex.ro/laptop-2-in-1-hp-pavilion-x360-14-dw1025na-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-touch-16gb-ssd-512gb-intel-iris-xe-windows-10-home-albastru/cpd/TPC322P4EA/
+
+
+No:  29
+Title:  Laptop LENOVO ThinkPad E14 Gen 2, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-lenovo-thinkpad-e14-gen-2-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-negru/cpd/LAP20TA0024RI/
+
+
+No:  30
+Title:  Laptop HP Pavilion 15-eh1001nq, AMD Ryzen 5 5700U pana la 4.3GHz, 15.6" Full HD, 16GB, SSD 1TB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.799
+Link:  https://altex.ro/laptop-hp-pavilion-15-eh1001nq-amd-ryzen-5-5700u-pana-la-4-3ghz-15-6-full-hd-16gb-ssd-1tb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP3E3Q8EA/
+
+
+No:  31
+Title:  Laptop ASUS Zenbook 13 OLED UX325EA-KG230, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, gri
+Price:  3.499
+Link:  https://altex.ro/laptop-asus-zenbook-13-oled-ux325ea-kg230-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-gri/cpd/LAPUX325EKG230/
+
+
+No:  32
+Title:  Laptop HP 17-cn0012nq, Intel Core i7-1165G7 pana la 4.7GHz, 17.3" Full HD, 8GB, SSD 512GB, Intel Iris Xe, Free DOS, negru
+Price:  3.399
+Link:  https://altex.ro/laptop-hp-17-cn0012nq-intel-core-i7-1165g7-pana-la-4-7ghz-17-3-full-hd-8gb-ssd-512gb-intel-iris-xe-free-dos-negru/cpd/LAP4Q8P7EA/
+
+
+No:  33
+Title:  Laptop DELL Vostro 5490, Intel Core i5-10210U pana la 4.9GHz, 14" Full HD, 8GB, SSD 256GB, NVIDIA GeForce MX250 2GB, Windows 10 Pro, gri
+Price:  3.299
+Link:  https://altex.ro/laptop-dell-vostro-5490-intel-core-i5-10210u-pana-la-4-9ghz-14-full-hd-8gb-ssd-256gb-nvidia-geforce-mx250-2gb-windows-10-pro-gri/cpd/LAP54900317/
+
+
+No:  34
+Title:  Laptop HP Pavilion 13-bb0015nq, Intel Core i7-1165G7 pana la 4.7GHz, 13.3" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Free DOS, argintiu
+Price:  3.249
+Link:  https://altex.ro/laptop-hp-pavilion-13-bb0015nq-intel-core-i7-1165g7-pana-la-4-7ghz-13-3-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-free-dos-argintiu/cpd/LAP2L8V1EA/
+
+
+No:  35
+Title:  Laptop Gaming LENOVO Legion 5 15ARH05H, AMD Ryzen 5 4600H pana la 4GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, negru
+Price:  3.999
+Link:  https://altex.ro/laptop-gaming-lenovo-legion-5-15arh05h-amd-ryzen-5-4600h-pana-la-4ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-ti-4gb-free-dos-negru/cpd/LAP82B50098RM/
+
+
+No:  36
+Title:  Laptop ASUS ZenBook 14 UX425EA-KI505, Intel Core i7-1165G7 pana la 4.7GHz, 14" Full HD, 16GB, SSD 1TB, Intel Iris Xe, Free Dos, Pine Grey
+Price:  3.999
+Link:  https://altex.ro/laptop-asus-zenbook-14-ux425ea-ki505-intel-core-i7-1165g7-pana-la-4-7ghz-14-full-hd-16gb-ssd-1tb-intel-iris-xe-free-dos-pine-grey/cpd/LAPUX425EAKI505/
+
+
+No:  37
+Title:  Laptop HP ProBook 430 G7, Intel Core i7-10510U pana la 4.9GHz, 13.3" Full HD, 16GB, SSD 256GB, Intel UHD Graphics 620, Windows 10 Pro, argintiu
+Price:  3.998
+Link:  https://altex.ro/laptop-hp-probook-430-g7-intel-core-i7-10510u-pana-la-4-9ghz-13-3-full-hd-16gb-ssd-256gb-intel-uhd-graphics-620-windows-10-pro-argintiu/cpd/LAP2D179EA/
+
+
+No:  38
+Title:  Laptop ACER Aspire 5 A514-54-79L8, Intel Core i7-1165G7 pana la 4.7GHz, 14" Full HD, 16GB, SSD 512GB, Intel Iris Xe, Windows 10 Pro, argintiu
+Price:  3.899
+Link:  https://altex.ro/laptop-acer-aspire-5-a514-54-79l8-intel-core-i7-1165g7-pana-la-4-7ghz-14-full-hd-16gb-ssd-512gb-intel-iris-xe-windows-10-pro-argintiu/cpd/LAPNXA2CEX003/
+
+
+No:  39
+Title:  Laptop HP Envy x360 13-ay0001nn, AMD Ryzen 3 4300U pana la 3.7GHz, 13.3" Full HD Touch, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-hp-envy-x360-13-ay0001nn-amd-ryzen-3-4300u-pana-la-3-7ghz-13-3-full-hd-touch-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-negru/cpd/LAP2T289EA/
+
+
+No:  40
+Title:  Laptop ACER Swift 3 SF316-51, Intel Core i5-11300H pana la 4.4GHz, 16.1" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, gri metalic
+Price:  3.799
+Link:  https://altex.ro/laptop-acer-swift-3-sf316-51-intel-core-i5-11300h-pana-la-4-4ghz-16-1-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-gri-metalic/cpd/LAPNXABDEX007/
+
+
+No:  41
+Title:  Laptop DELL Vostro 3500, Intel Core i7-1165G7 pana la 4.7GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX330 2GB, Ubuntu, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-dell-vostro-3500-intel-core-i7-1165g7-pana-la-4-7ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx330-2gb-ubuntu-negru/cpd/LAP35001611/
+
+
+No:  42
+Title:  Laptop ASUS ZenBook 14 UM425QA-KI009T, AMD Ryzen 5 5600U pana la 4.2GHz, 14" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, gri inchis
+Price:  3.799
+Link:  https://altex.ro/laptop-asus-zenbook-14-um425qa-ki009t-amd-ryzen-5-5600u-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-gri-inchis/cpd/LAPUM425QKI009T/
+
+
+No:  43
+Title:  Laptop ASUS Zenbook 13 UX325EA-KG347T, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, Lilac Mist
+Price:  3.799
+Link:  https://altex.ro/laptop-asus-zenbook-13-ux325ea-kg347t-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-lilac-mist/cpd/LAPUX325EKG347T/
+
+
+No:  44
+Title:  Laptop Gaming LENOVO IdeaPad 3 15ARH05, AMD Ryzen 5 4600H pana la 4.0GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, albastru
+Price:  3.799
+Link:  https://altex.ro/laptop-gaming-lenovo-ideapad-3-15arh05-amd-ryzen-5-4600h-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-ti-4gb-free-dos-albastru/cpd/LAP82EY007YRM/
+
+
+No:  45
+Title:  Laptop DELL Vostro 5502, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Xe, Linux, gri inchis
+Price:  3.799
+Link:  https://altex.ro/laptop-dell-vostro-5502-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-xe-linux-gri-inchis/cpd/LAP55024674/
+
+
+No:  46
+Title:  Laptop HP ProBook 430 G7, Intel Core i5-10210U pana la 4.2GHz, 13.3" Full HD, 8GB, SSD 256GB, Intel UHD Graphics 620, Windows 10 Pro, argintiu
+Price:  3.799
+Link:  https://altex.ro/laptop-hp-probook-430-g7-intel-core-i5-10210u-pana-la-4-2ghz-13-3-full-hd-8gb-ssd-256gb-intel-uhd-graphics-620-windows-10-pro-argintiu/cpd/LAP9VZ24EA/
+
+
+No:  47
+Title:  Laptop HP ProBook 430 G7, Intel Core i7-10510U pana la 4.9GHz, 13.3" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Free DOS, argintiu
+Price:  3.699
+Link:  https://altex.ro/laptop-hp-probook-430-g7-intel-core-i7-10510u-pana-la-4-9ghz-13-3-full-hd-8gb-ssd-512gb-intel-uhd-graphics-free-dos-argintiu/cpd/LAP9TV36EA/
+
+
+No:  48
+Title:  Laptop ASUS VivoBook S14 S435EA-KC048T, Intel Core i7-1165G7 pana la 4.7GHz, 14" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, verde inchis
+Price:  3.699
+Link:  https://altex.ro/laptop-asus-vivobook-s14-s435ea-kc048t-intel-core-i7-1165g7-pana-la-4-7ghz-14-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-verde-inchis/cpd/LAPS435EAKC048T/
+
+
+No:  49
+Title:  Laptop Gaming MSI Bravo 15 9S7-16WK12-290, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, AMD Radeon RX 5500M 4GB, Free DOS, negru
+Price:  3.699
+Link:  https://altex.ro/laptop-gaming-msi-bravo-15-9s7-16wk12-290-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-rx-5500m-4gb-free-dos-negru/cpd/LAP9S716WK12290/
+
+
+No:  50
+Title:  Laptop ACER Aspire 5 A515-56, Intel Core i7-1165G7 pana la 4.7GHz, 15.6" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 10 Home, negru
+Price:  3.599
+Link:  https://altex.ro/laptop-acer-aspire-5-a515-56-intel-core-i7-1165g7-pana-la-4-7ghz-15-6-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-windows-10-home-negru/cpd/LAPNXA18EX00D/
+
+
+No:  51
+Title:  Laptop DELL Vostro 3500, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 10 Pro, negru
+Price:  3.599
+Link:  https://altex.ro/laptop-dell-vostro-3500-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-windows-10-pro-negru/cpd/LAP35002394/
+
+
+No:  52
+Title:  Laptop HP 250 G8, Intel Core i7-1065G7 pana la 3.9GHz, 15.6" HD, 8GB, SSD 256GB, Intel Iris Plus Graphics, Windows 10 Pro, negru
+Price:  3.598
+Link:  https://altex.ro/laptop-hp-250-g8-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-hd-8gb-ssd-256gb-intel-iris-plus-graphics-windows-10-pro-negru/cpd/LAP27J86EA/
+
+
+No:  53
+Title:  Laptop HP 14s-fq0013nq, AMD Ryzen 5 4500U pana la 4.0GHz, 14" Full HD, 16GB, SSD 1TB, AMD Radeon Graphics, Windows 10 Home S, argintiu
+Price:  3.499
+Link:  https://altex.ro/laptop-hp-14s-fq0013nq-amd-ryzen-5-4500u-pana-la-4-0ghz-14-full-hd-16gb-ssd-1tb-amd-radeon-graphics-windows-10-home-s-argintiu/cpd/LAP1K5W8EA/
+
+
+No:  54
+Title:  Laptop DELL Vostro 5402, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 10 Pro, gri
+Price:  3.499
+Link:  https://altex.ro/laptop-dell-vostro-5402-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-windows-10-pro-gri/cpd/LAP54022448/
+
+
+No:  55
+Title:  Laptop DELL Vostro 5502, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Xe, Linux, gri inchis
+Price:  3.399
+Link:  https://altex.ro/laptop-dell-vostro-5502-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-linux-gri-inchis/cpd/LAP55024681/
+
+
+No:  56
+Title:  Laptop HP Pavilion 15-eh1006nq, AMD Ryzen 7 5700U pana la 4.3GHz, 15.6" Full HD, 16GB, SSD 1TB, AMD Radeon Graphics, Free Dos, albastru
+Price:  3.399
+Link:  https://altex.ro/laptop-hp-pavilion-15-eh1006nq-amd-ryzen-7-5700u-pana-la-4-3ghz-15-6-full-hd-16gb-ssd-1tb-amd-radeon-graphics-free-dos-albastru/cpd/LAP3E3U4EA/
+
+
+No:  57
+Title:  Laptop ACER Aspire 7 A715-41G, AMD Ryzen 5 3550H pana la 3.7GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free Dos, negru
+Price:  3.399
+Link:  https://altex.ro/laptop-acer-aspire-7-a715-41g-amd-ryzen-5-3550h-pana-la-3-7ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAPNHQ8LEX002/
+
+
+No:  58
+Title:  Laptop 2 in 1 MICROSOFT Surface Go 2, Intel Core m3-8100Y pana la 3.4GHz, 10.5" Touch, 8GB, SSD 128GB, Intel UHD Graphics 615, Windows 10 S, platinum
+Price:  3.326
+Link:  https://altex.ro/laptop-2-in-1-microsoft-surface-go-2-intel-core-m3-8100y-pana-la-3-4ghz-10-5-touch-8gb-ssd-128gb-intel-uhd-graphics-615-windows-10-s-platinum/cpd/LAPTFZ00003/
+
+
+No:  59
+Title:  Laptop HP 15s-fq2005nq, Intel Core i7-1165G7 pana la 4.7GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Xe, Free Dos, argintiu
+Price:  3.299
+Link:  https://altex.ro/laptop-hp-15s-fq2005nq-intel-core-i7-1165g7-pana-la-4-7ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-free-dos-argintiu/cpd/LAP2L9V6EA/
+
+
+No:  60
+Title:  Laptop HP Pavilion 13-bb0020nq, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, auriu
+Price:  3.299
+Link:  https://altex.ro/laptop-hp-pavilion-13-bb0020nq-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-auriu/cpd/LAP3A8R3EA/
+
+
+No:  61
+Title:  Laptop HP Pavilion 15-eg0069nq, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, albastru
+Price:  3.299
+Link:  https://altex.ro/laptop-hp-pavilion-15-eg0069nq-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-albastru/cpd/LAP2M0G0EA/
+
+
+No:  62
+Title:  Laptop DELL Vostro 3500, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, 1TB, Intel Iris Xe Graphics, Windows 10 Pro, negru
+Price:  3.299
+Link:  https://altex.ro/laptop-dell-vostro-3500-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-1tb-intel-iris-xe-graphics-windows-10-pro-negru/cpd/LAP35003243/
+
+
+No:  63
+Title:  Laptop HUAWEI MateBook D15 2021, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, argintiu
+Price:  3.299
+Link:  https://altex.ro/laptop-huawei-matebook-d-15-2021-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-argintiu/cpd/LAP53011QPK/
+
+
+No:  64
+Title:  Laptop HP 15s-eq1045nq, AMD Ryzen 7 4700U pana la 3.1GHz, 15.6" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.299
+Link:  https://altex.ro/laptop-hp-15s-eq1045nq-amd-ryzen-7-4700u-pana-la-3-1ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP1K9X6EA/
+
+
+No:  65
+Title:  Laptop DELL Latitude 3410, Intel Core i5-10210U pana la 4.2GHz, 14" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Pro, negru
+Price:  3.249
+Link:  https://altex.ro/laptop-dell-latitude-3410-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-10-pro-negru/cpd/LAP34106075/
+
+
+No:  66
+Title:  Laptop LENOVO IdeaPad 3 15IIL05, Intel Core i7-1065G7 pana la 3.9GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Plus Graphics, Free DOS, gri
+Price:  3.199
+Link:  https://altex.ro/laptop-lenovo-ideapad-3-15iil05-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-plus-graphics-free-dos-gri/cpd/LAP81WE00R2RM/
+
+
+No:  67
+Title:  Laptop HP Pavilion 13-bb0019nq, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, argintiu
+Price:  3.199
+Link:  https://altex.ro/laptop-hp-pavilion-13-bb0019nq-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-argintiu/cpd/LAP3A8R2EA/
+
+
+No:  68
+Title:  Laptop HP 15s-fq2030nq, Intel Core i7-1165G7 pana la 4.7GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, auriu pal
+Price:  3.199
+Link:  https://altex.ro/laptop-hp-15s-fq2030nq-intel-core-i7-1165g7-pana-la-4-7ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-auriu-pal/cpd/LAP3A8Z6EA/
+
+
+No:  69
+Title:  Laptop HP 14s-fq0010nq, AMD Ryzen 5 4500U pana la 4.0GHz, 14" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home S, argintiu
+Price:  3.099
+Link:  https://altex.ro/laptop-hp-14s-fq0010nq-amd-ryzen-5-4500u-pana-la-4-0ghz-14-full-hd-16gb-ssd-512gb-amd-radeon-graphics-windows-10-home-s-argintiu/cpd/LAP1K5W6EA/
+
+
+No:  70
+Title:  Laptop LENOVO IdeaPad 5 14ARE05, AMD Ryzen 7 4700U pana la 4.1GHz, 14" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Free DOS, gri
+Price:  3.099
+Link:  https://altex.ro/laptop-lenovo-ideapad-5-14are05-amd-ryzen-7-4700u-pana-la-4-1ghz-14-full-hd-8gb-ssd-512gb-amd-radeon-graphics-free-dos-gri/cpd/LAP81YM0059RM/
+
+
+No:  71
+Title:  Laptop HP 14s-fq0002nq, AMD Ryzen 7 4700U pana la 4.2GHz, 14" Full HD, 8GB, SSD 256GB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.099
+Link:  https://altex.ro/laptop-hp-14s-fq0002nq-amd-ryzen-7-4700u-pana-la-4-2ghz-14-full-hd-8gb-ssd-256gb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP1K5W3EA/
+
+
+No:  72
+Title:  Laptop HP 15s-eq2001nq, AMD Ryzen 7 5700U pana la 4.3GHz, 15.6" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.099
+Link:  https://altex.ro/laptop-hp-15s-eq2001nq-amd-ryzen-7-5700u-pana-la-4-3ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP3A8T2EA/
+
+
+No:  73
+Title:  Laptop DELL Vostro 3400, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 10 Pro, negru
+Price:  3.098
+Link:  https://altex.ro/laptop-dell-vostro-3400-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-windows-10-pro-negru/cpd/LAP21052417/
+
+
+No:  74
+Title:  Laptop Gaming HP Pavilion 15-ec1012nq, AMD Ryzen 5 4600H pana la 4.0GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, negru
+Price:  3.999
+Link:  https://altex.ro/laptop-gaming-hp-pavilion-15-ec1012nq-amd-ryzen-5-4600h-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAP1K9K3EA/
+
+
+No:  75
+Title:  Laptop Gaming LENOVO Legion Y540-17IRH-PG0, Intel Core i5-9300H pana la 4.1GHz, 17.3" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free Dos, Negru
+Price:  3.499
+Link:  https://altex.ro/laptop-gaming-lenovo-legion-y540-17irh-pg0-intel-core-i5-9300h-pana-la-4-1ghz-17-3-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAP81T3001WRM/
+
+
+No:  76
+Title:  Laptop Gaming ACER Nitro 5 AN515-44-R0XU, AMD Ryzen 5 4600H pana la 4.0GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650Ti 4GB, Free DOS, negru
+Price:  3.599
+Link:  https://altex.ro/laptop-gaming-acer-nitro-5-an515-44-r0xu-amd-ryzen-5-4600h-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650ti-4gb-free-dos-negru/cpd/LAPNHQ9HEX00S/
+
+
+No:  77
+Title:  Laptop Gaming ASUS TUF F15 FX506LU-HN011, Intel Core i5-10300H pana la 4.5GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, gri inchis
+Price:  3.999
+Link:  https://altex.ro/laptop-gaming-asus-tuf-f15-fx506lu-hn011-intel-core-i5-10300h-pana-la-4-5ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1660ti-6gb-free-dos-gri-inchis/cpd/LAPFX506LUHN011/
+
+
+No:  78
+Title:  Laptop HUAWEI MateBook D14 2021, Intel Core i5-10210U pana la 4.2GHz, 14" Full, 16GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, argintiu
+Price:  3.499
+Link:  https://altex.ro/laptop-huawei-matebook-d-14-2021-intel-core-i5-10210u-pana-la-4-2ghz-14-full-16gb-ssd-512gb-intel-uhd-graphics-windows-10-home-argintiu/cpd/LAP53012BMY/
+
+
+No:  79
+Title:  Laptop 2 in 1 MICROSOFT Surface Pro 7, Intel Core i5-1035G4 pana la 3.7GHz, 12.3" Touch, 8GB, SSD 128GB, Intel Iris Plus Graphics, Windows 10 Home, Platinum
+Price:  3.899
+Link:  https://altex.ro/laptop-2-in-1-microsoft-surface-pro-7-intel-core-i5-1035g4-pana-la-3-7ghz-12-3-touch-8gb-ssd-128gb-intel-iris-plus-graphics-windows-10-home-platinum/cpd/TPCVDV00018/
+
+
+No:  80
+Title:  Laptop Gaming ACER Nitro 5 AN515-54, Intel Core i7-9750H pana la 4.5GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1660Ti 6GB, Boot-up Linux, negru
+Price:  3.899
+Link:  https://altex.ro/laptop-gaming-acer-nitro-5-an515-54-intel-core-i7-9750h-pana-la-4-5ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1660ti-6gb-boot-up-linux-negru/cpd/LAPNHQ5BEX03Q/
+
+
+No:  81
+Title:  Laptop APPLE MacBook Air mqd32ze/a, Intel® Core™ i5 pana la 2.9GHz, 13.3", 8GB, 128GB, Intel HD Graphics 6000, macOS Sierra - Tastatura layout INT
+Price:  3.499
+Link:  https://altex.ro/laptop-apple-macbook-air-mqd32ze-a-intelr-coretm-i5-pana-la-2-9ghz-13-3-8gb-128gb-intel-hd-graphics-6000-macos-sierra-tastatura-layout-int/cpd/LAPMQD32ZEA/
+
+
+No:  82
+Title:  Laptop Gaming LENOVO IdeaPad 3 15ARH05, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, negru
+Price:  3.499
+Link:  https://altex.ro/laptop-gaming-lenovo-ideapad-3-15arh05-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-negru/cpd/LAP82EY00RPRM/
+
+
+No:  83
+Title:  Laptop 2 in 1 ASUS ZenBook Flip 13 UX363JA-EM149T, Intel Core i5-1035G4 pana la 3.7GHz, 13.3" Full HD Touch, 8GB, SSD 512GB, Intel Iris Plus, Windows 10 Home, gri
+Price:  3.128
+Link:  https://altex.ro/laptop-2-in-1-asus-zenbook-flip-13-ux363ja-em149t-intel-core-i5-1035g4-pana-la-3-7ghz-13-3-full-hd-touch-8gb-ssd-512gb-intel-iris-plus-windows-10-home-gri/cpd/LAPUX363JEM149T/
+
+
+No:  84
+Title:  Laptop Gaming ASUS TUF FX505DT-HN482, AMD Ryzen 7 3750H pana la 4.0GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free DOS, Gold Steel
+Price:  3.099
+Link:  https://altex.ro/laptop-gaming-asus-tuf-fx505dt-hn482-amd-ryzen-7-3750h-pana-la-4-0ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-gold-steel/cpd/LAPFX505DTHN482/
+
+
+No:  85
+Title:  Laptop HP 15s-eq1040nq, AMD Ryzen 7 4700U pana la 4.1GHz, 15.6" Full HD, 16GB, SSD 1TB, AMD Radeon Graphics, Free DOS, argintiu
+Price:  3.098
+Link:  https://altex.ro/laptop-hp-15s-eq1040nq-amd-ryzen-7-4700u-pana-la-4-1ghz-15-6-full-hd-16gb-ssd-1tb-amd-radeon-graphics-free-dos-argintiu/cpd/LAP1K9X1EA/
+
+
+No:  86
+Title:  Laptop Gaming LENOVO Legion 5 15ARH05, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, negru
+Price:  3.999
+Link:  https://altex.ro/laptop-gaming-lenovo-legion-5-15arh05-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-ti-4gb-free-dos-negru/cpd/LAP82B5009GRM/
+
+
+No:  87
+Title:  Laptop MICROSOFT Surface 3, Intel Core i5-1035G7 pana la 3.7GHz, 13.5" Touch, 8GB, SSD 128GB, Intel Iris Plus Graphics, Windows 10 Home, Platinum
+Price:  3.999
+Link:  https://altex.ro/laptop-microsoft-surface-3-intel-core-i5-1035g7-pana-la-3-7ghz-13-5-touch-8gb-ssd-128gb-intel-iris-plus-graphics-windows-10-home-platinum/cpd/LAPVGY00008/
+
+
+No:  88
+Title:  Laptop Gaming HP Pavilion 15-ec1038nq, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 256GB, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, negru
+Price:  3.999
+Link:  https://altex.ro/laptop-gaming-hp-pavilion-15-ec1038nq-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-256gb-nvidia-geforce-gtx-1650-ti-4gb-free-dos-negru/cpd/LAP1K9M0EA/
+
+
+No:  89
+Title:  Laptop Gaming ASUS FX504GM-EN224, Intel Core i7-8750H pana la 4.1GHz, 15.6" Full HD, 8GB, HDD 1TB + SSD 256GB, NVIDIA GeForce GTX 1060 6GB, Free Dos
+Price:  3.999
+Link:  https://altex.ro/laptop-gaming-asus-fx504gm-en224-intel-core-i7-8750h-pana-la-4-1ghz-15-6-full-hd-8gb-hdd-1tb-ssd-256gb-nvidia-geforce-gtx-1060-6gb-free-dos/cpd/LAPFX504GMEN224/
+
+
+No:  90
+Title:  Laptop ASUS ZenBook Duo UX481FL-HJ085R, Intel Core i5-10210U pana la 4.2GHz, 14" Full HD Touch, 8GB, SSD 512GB, NVIDIA GeForce MX250 2GB, Windows 10 Pro, Celestial Blue
+Price:  3.999
+Link:  https://altex.ro/laptop-asus-zenbook-duo-ux481fl-hj085r-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-touch-8gb-ssd-512gb-nvidia-geforce-mx250-2gb-windows-10-pro-celestial-blue/cpd/LAPUX481FHJ085R/
+
+
+No:  91
+Title:  Laptop Gaming LENOVO Legion 5 15ARH05H, AMD Ryzen 5 4600H pana la 4GHz, 15.6" Full HD, 8GB, SSD 256GB, NVIDIA GeForce GTX 1660 Ti 6GB, Free DOS, negru
+Price:  3.998
+Link:  https://altex.ro/laptop-gaming-lenovo-legion-5-15arh05h-amd-ryzen-5-4600h-pana-la-4ghz-15-6-full-hd-8gb-ssd-256gb-nvidia-geforce-gtx-1660-ti-6gb-free-dos-negru/cpd/LAP82B1002XRM/
+
+
+No:  92
+Title:  Laptop ASUS VivoBook S14 S435EA-KC046T, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, verde inchis
+Price:  3.899
+Link:  https://altex.ro/laptop-asus-vivobook-s14-s435ea-kc046t-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-verde-inchis/cpd/LAPS435EAKC046T/
+
+
+No:  93
+Title:  Laptop Gaming HP Omen 15-en0001nq, AMD Ryzen 7 4800H pana la 4.3GHz, 15.6" Full HD, 16GB, SSD 256GB, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, argintiu
+Price:  3.899
+Link:  https://altex.ro/laptop-gaming-hp-omen-15-en0001nq-amd-ryzen-7-4800h-pana-la-4-3ghz-15-6-full-hd-16gb-ssd-256gb-nvidia-geforce-gtx-1650-ti-4gb-free-dos-argintiu/cpd/LAP238V9EA/
+
+
+No:  94
+Title:  Laptop ASUS ZenBook 13 OLED UM325UA-KG020T, AMD Ryzen 5 5500U pana la 4GHz, 13.3" Full HD, 8GB, SSD 512GB, AMD Radeon RX Vega 7, Windows 10 Home, gri
+Price:  3.898
+Link:  https://altex.ro/laptop-asus-zenbook-13-oled-um325ua-kg020t-amd-ryzen-5-5500u-pana-la-4ghz-13-3-full-hd-8gb-ssd-512gb-amd-radeon-rx-vega-7-windows-10-home-gri/cpd/LAPUM325UKG020T/
+
+
+No:  95
+Title:  Laptop ASUS ZenBook Duo UX481FA-BM033T, Intel Core i7-10510U pana la 4.9GHz, 14" Full HD, 8GB, SSD 512GB, Intel HD Graphics 620, Windows 10 Home, Celestial Blue
+Price:  3.799
+Link:  https://altex.ro/laptop-asus-zenbook-duo-ux481fa-bm033t-intel-core-i7-10510u-pana-la-4-9ghz-14-full-hd-8gb-ssd-512gb-intel-hd-graphics-620-windows-10-home-celestial-blue/cpd/LAPUX481FBM033T/
+
+
+No:  96
+Title:  Laptop Gaming HP Pavilion 15-ec1015nq, AMD Ryzen 5 4600H pana la 4.0GHz, 15.6" Full HD, 16GB, SSD 256GB, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-gaming-hp-pavilion-15-ec1015nq-amd-ryzen-5-4600h-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-256gb-nvidia-geforce-gtx-1650-ti-4gb-free-dos-negru/cpd/LAP1K9K5EA/
+
+
+Next Page
+
+No:  1
+Title:  Laptop Gaming DELL G3 3500, Intel Core i5-10300H pana la 4.5GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 Ti 4GB, Ubuntu, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-gaming-dell-g3-3500-intel-core-i5-10300h-pana-la-4-5ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-ti-4gb-ubuntu-negru/cpd/LAP35008897/
+
+
+No:  2
+Title:  Laptop Gaming HP Pavilion 15-ec1021nq, AMD Ryzen 5 4600H pana la 4.0GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce GTX 1650 Ti 4GB, Free DOS, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-gaming-hp-pavilion-15-ec1021nq-amd-ryzen-5-4600h-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-gtx-1650-ti-4gb-free-dos-negru/cpd/LAP1U6D0EA/
+
+
+No:  3
+Title:  Laptop ASUS VivoBook Flip 14 TM420IA-EC061T, AMD Ryzen 7 4700U pana la 4.1GHz, 14" Full HD Touch, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-asus-vivobook-flip-14-tm420ia-ec061t-amd-ryzen-7-4700u-pana-la-4-1ghz-14-full-hd-touch-16gb-ssd-512gb-amd-radeon-graphics-windows-10-home-negru/cpd/LAPTM420IEC061T/
+
+
+No:  4
+Title:  Laptop HP Gaming Pavilion 15-cs3022nq, Intel Core i5-1035G1 pana la 3.6GHz, 15.6" Full HD, 16GB, SSD 512GB, NVIDIA GeForce MX130 2GB, Free DOS, albastru inchis
+Price:  3.799
+Link:  https://altex.ro/laptop-hp-gaming-pavilion-15-cs3022nq-intel-core-i5-1035g1-pana-la-3-6ghz-15-6-full-hd-16gb-ssd-512gb-nvidia-geforce-mx130-2gb-free-dos-albastru-inchis/cpd/LAP2T252EA/
+
+
+No:  5
+Title:  Laptop Gaming MSI Bravo 15 A4DDR-216XRO, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, AMD Radeon RX 5500M 4GB, Free DOS, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-gaming-msi-bravo-15-a4ddr-216xro-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-rx-5500m-4gb-free-dos-negru/cpd/LAPA4DDR216XRO/
+
+
+No:  6
+Title:  Laptop DELL Vostro 3500, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Pro, negru
+Price:  3.799
+Link:  https://altex.ro/laptop-dell-vostro-3500-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-pro-negru/cpd/LAP35002574/
+
+
+No:  7
+Title:  Laptop Gaming ASUS ROG Zephyrus G14 GA401QH-BM020, AMD Ryzen 7 5800HS pana la 4.3GHz, 14" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free Dos, alb
+Price:  3.798
+Link:  https://altex.ro/laptop-gaming-asus-rog-zephyrus-g14-ga401qh-bm020-amd-ryzen-7-5800hs-pana-la-4-3ghz-14-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-alb/cpd/LAPGA401QBM020/
+
+
+No:  8
+Title:  Laptop LENOVO IdeaPad 5 14IIL05, Intel Core i7-1065G7 pana la 3.9GHz, 14" Full HD, 16GB, SSD 1TB, NVIDIA GeForce MX350 2GB, Free DOS, gri
+Price:  3.749
+Link:  https://altex.ro/laptop-lenovo-ideapad-5-14iil05-intel-core-i7-1065g7-pana-la-3-9ghz-14-full-hd-16gb-ssd-1tb-nvidia-geforce-mx350-2gb-free-dos-gri/cpd/LAP81YH00DERM/
+
+
+No:  9
+Title:  Laptop HP 15-dw2018nq, Intel Core i7-1065G7 pana la 3.9GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Plus Graphics, Free DOS, argintiu
+Price:  3.749
+Link:  https://altex.ro/laptop-hp-15-dw2018nq-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-plus-graphics-free-dos-argintiu/cpd/LAP2S960EA/
+
+
+No:  10
+Title:  Laptop LENOVO IdeaPad 5 14IIL05, Intel Core i7-1065G7 pana la 3.9GHz, 14" Full HD, 16GB, SSD 512GB, Intel Iris Plus Graphics, Free DOS, gri platinum
+Price:  3.749
+Link:  https://altex.ro/laptop-lenovo-ideapad-5-14iil05-intel-core-i7-1065g7-pana-la-3-9ghz-14-full-hd-16gb-ssd-512gb-intel-iris-plus-graphics-free-dos-gri-platinum/cpd/LAP81YH00DARM/
+
+
+No:  11
+Title:  Laptop Gaming ASUS ROG Zephyrus G14 GA401QH-BM019, AMD Ryzen 7 5800HS pana la 4.3GHz, 14" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1650 4GB, Free Dos, gri inchis
+Price:  3.724
+Link:  https://altex.ro/laptop-gaming-asus-rog-zephyrus-g14-ga401qh-bm019-amd-ryzen-7-5800hs-pana-la-4-3ghz-14-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1650-4gb-free-dos-gri-inchis/cpd/LAPGA401QHBM019/
+
+
+No:  12
+Title:  Laptop HP ProBook 430 G8, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD, 16GB, SSD 256GB, Intel Iris Xe Graphics, Windows 10 Pro, argintiu
+Price:  3.716
+Link:  https://altex.ro/laptop-hp-probook-430-g8-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-16gb-ssd-256gb-intel-iris-xe-graphics-windows-10-pro-argintiu/cpd/LAP27J74EA/
+
+
+No:  13
+Title:  Laptop LENOVO ThinkPad E14, Intel Core i5-10210U pana la 4.2GHz, 14" Full HD, 16GB, SSD 512GB, Intel UHD Graphics, Windows 10 Pro, negru
+Price:  3.699
+Link:  https://altex.ro/laptop-lenovo-thinkpad-e14-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-16gb-ssd-512gb-intel-uhd-graphics-windows-10-pro-negru/cpd/LAP20RA001MRI/
+
+
+No:  14
+Title:  Laptop ASUS ZenBook 14 UM433IQ-A5024, AMD Ryzen 5 4500U pana la 4GHz, 14" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX350 2GB, Free Dos, Light Grey
+Price:  3.699
+Link:  https://altex.ro/laptop-asus-zenbook-14-um433iq-a5024-amd-ryzen-5-4500u-pana-la-4ghz-14-full-hd-8gb-ssd-512gb-nvidia-geforce-mx350-2gb-free-dos-light-grey/cpd/LAPUM433IQA5024/
+
+
+No:  15
+Title:  Laptop HP 15s-fq1035nq, Intel Core i7-1065G7 pana la 3.9GHz, 15.6" Full HD, 16GB, SSD 512GB, Intel Iris Plus Graphics, Free DOS, argintiu
+Price:  3.699
+Link:  https://altex.ro/laptop-hp-15s-fq1035nq-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-16gb-ssd-512gb-intel-iris-plus-graphics-free-dos-argintiu/cpd/LAP2S927EA/
+
+
+No:  16
+Title:  Laptop ASUS Zenbook 13 UX325JA-EG074T, Intel Core i7-1065G7 pana la 3.9GHz, 13.3" Full HD, 32GB, SSD 512GB, Intel Iris Plus Graphics, Windows 10 Home, gri
+Price:  3.699
+Link:  https://altex.ro/laptop-asus-zenbook-13-ux325ja-eg074t-intel-core-i7-1065g7-pana-la-3-9ghz-13-3-full-hd-32gb-ssd-512gb-intel-iris-plus-graphics-windows-10-home-gri/cpd/LAPUX325JEG074T/
+
+
+No:  17
+Title:  Laptop ASUS ZenBook 14 UM425IA-HM040T, AMD Ryzen 7 4700U pana la 4.1GHz, 14" Full HD, 16GB, SSD 512GB, AMD Radeon Graphic, Windows 10 Home, gri inchis
+Price:  3.699
+Link:  https://altex.ro/laptop-asus-zenbook-14-um425ia-hm040t-amd-ryzen-7-4700u-pana-la-4-1ghz-14-full-hd-16gb-ssd-512gb-amd-radeon-graphic-windows-10-home-gri-inchis/cpd/LAPUM425IHM040T/
+
+
+No:  18
+Title:  Laptop 2 in 1 DELL Inspiron 5406, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD Touch, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, gri
+Price:  3.698
+Link:  https://altex.ro/laptop-2-in-1-dell-inspiron-5406-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-touch-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-gri/cpd/TPC54069184/
+
+
+No:  19
+Title:  Laptop HP ProBook 430 G8, Intel Core i7-1165G7 pana la 4.7GHz, 13.3" Full HD, 8GB, SSD 256GB, Intel Iris Xe Graphics, Windows 10 Pro, argintiu
+Price:  3.698
+Link:  https://altex.ro/laptop-hp-probook-430-g8-intel-core-i7-1165g7-pana-la-4-7ghz-13-3-full-hd-8gb-ssd-256gb-intel-iris-xe-graphics-windows-10-pro-argintiu/cpd/LAP203F6EA/
+
+
+No:  20
+Title:  Laptop HP 250 G7, Intel Core i7-1065G7 pana la 3.9GHz, 15.6" Full HD, 8GB, SSD 256GB, Intel Iris Plus Graphics, Windows 10 Home, argintiu
+Price:  3.599
+Link:  https://altex.ro/laptop-hp-250-g7-intel-core-i7-1065g7-pana-la-3-9ghz-15-6-full-hd-8gb-ssd-256gb-intel-iris-plus-graphics-windows-10-home-argintiu/cpd/LAP175Z3EA/
+
+
+No:  21
+Title:  Laptop 2 in 1 MICROSOFT Surface Pro 7, Intel Core i5-1035G4 pana la 3.7GHz, 12.3" Touch, 8GB, SSD 256GB, Intel Iris Plus Graphics, Windows 10 Home, negru mat
+Price:  3.599
+Link:  https://altex.ro/laptop-2-in-1-microsoft-surface-pro-7-intel-core-i5-1035g4-pana-la-3-7ghz-12-3-touch-8gb-ssd-256gb-intel-iris-plus-graphics-windows-10-home-negru-mat/cpd/LAPPUV00018/
+
+
+No:  22
+Title:  Laptop HP EliteBook 845 G7, AMD Ryzen 5 Pro 4650U pana la 4.0GHz, 14" Full HD, 8GB, SSD 256GB, AMD Radeon Graphics, Windows 10 Pro, argintiu
+Price:  3.599
+Link:  https://altex.ro/laptop-hp-elitebook-845-g7-amd-ryzen-5-pro-4650u-pana-la-4-0ghz-14-full-hd-8gb-ssd-256gb-amd-radeon-graphics-windows-10-pro-argintiu/cpd/LAP204F5EA/
+
+
+No:  23
+Title:  Laptop ASUS VivoBook 14 X403JA-BM004, Intel Core i5-1035G1 pana la 3.6GHz, 14" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Endless, Silver Blue
+Price:  3.599
+Link:  https://altex.ro/laptop-asus-vivobook-14-x403ja-bm004-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-8gb-ssd-256gb-intel-uhd-graphics-endless-silver-blue/cpd/LAPX403JABM004/
+
+
+No:  24
+Title:  Laptop ASUS ZenBook 14 UX425JA-BM003T, Intel Core i5-1035G1 pana la 3.6GHz, 14" Full HD, 16GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, Lilac Mist
+Price:  3.599
+Link:  https://altex.ro/laptop-asus-zenbook-14-ux425ja-bm003t-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-16gb-ssd-512gb-intel-uhd-graphics-windows-10-home-lilac-mist/cpd/LAPUX425JBM003T/
+
+
+No:  25
+Title:  Laptop LENOVO ThinkPad E14 Gen 2, Intel Core i7-1165G7 pana la 4.7GHz, 14" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, negru
+Price:  3.599
+Link:  https://altex.ro/laptop-lenovo-thinkpad-e14-gen-2-intel-core-i7-1165g7-pana-la-4-7ghz-14-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-negru/cpd/LAP20TA002GRI/
+
+
+No:  26
+Title:  Laptop DELL Vostro 3500, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Pro, negru
+Price:  3.549
+Link:  https://altex.ro/laptop-dell-vostro-3500-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-pro-negru/cpd/LAP35002424/
+
+
+No:  27
+Title:  Laptop ASUS Zenbook 13 OLED UX325EA-KG257, Intel Core i7-1165G7 pana la 4.7GHz, 13.3" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, gri
+Price:  3.549
+Link:  https://altex.ro/laptop-asus-zenbook-13-oled-ux325ea-kg257-intel-core-i7-1165g7-pana-la-4-7ghz-13-3-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-gri/cpd/LAPUX325EAKG257/
+
+
+No:  28
+Title:  Laptop Gaming HP Pavilion 15-ec0051nq, AMD Ryzen 7 3750H pana la 4GHz, 15.6" Full HD, 16GB, 1TB, NVIDIA GeForce GTX 1660 Ti Max-Q 6GB, Free DOS, negru
+Price:  3.499
+Link:  https://altex.ro/laptop-gaming-hp-pavilion-15-ec0051nq-amd-ryzen-7-3750h-pana-la-4ghz-15-6-full-hd-16gb-1tb-nvidia-geforce-gtx-1660-ti-max-q-6gb-free-dos-negru/cpd/LAP2T368EA/
+
+
+No:  29
+Title:  Laptop ASUS ZenBook Duo UX481FA-HJ048R, Intel Core i5-10210U pana la 4.2GHz, 14" Full HD Touch, 8GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Pro, Celestial Blue
+Price:  3.499
+Link:  https://altex.ro/laptop-asus-zenbook-duo-ux481fa-hj048r-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-touch-8gb-ssd-512gb-intel-uhd-graphics-620-windows-10-pro-celestial-blue/cpd/LAPUX481FHJ048R/
+
+
+No:  30
+Title:  Laptop Gaming ASUS TUF A15 FA506IU-AL048, AMD Ryzen 7 4800H pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1660Ti 6GB, Free DOS, negru
+Price:  3.499
+Link:  https://altex.ro/laptop-gaming-asus-tuf-a15-fa506iu-al048-amd-ryzen-7-4800h-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1660ti-6gb-free-dos-negru/cpd/LAPFA506IUAL048/
+
+
+No:  31
+Title:  Laptop ASUS VivoBook 14 X403JA-BM005, Intel Core i5-1035G1 pana la 3.6GHz, 14" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Endless, Silver Blue
+Price:  3.499
+Link:  https://altex.ro/laptop-asus-vivobook-14-x403ja-bm005-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-endless-silver-blue/cpd/LAPX403JABM005/
+
+
+No:  32
+Title:  Laptop DELL Inspiron 5405, AMD Ryzen 5 4500U pana la 4.0GHz, 14" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.499
+Link:  https://altex.ro/laptop-dell-inspiron-5405-amd-ryzen-5-4500u-pana-la-4-0ghz-14-full-hd-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP54050168/
+
+
+No:  33
+Title:  Laptop ASUS VivoBook S14 S435EA-KC046, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, verde inchis
+Price:  3.499
+Link:  https://altex.ro/laptop-asus-vivobook-s14-s435ea-kc046-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-verde-inchis/cpd/LAPS435EAKC046/
+
+
+No:  34
+Title:  Laptop HP fq0005nn, AMD Ryzen 5 4500U pana la 4.0GHz, 14" Full HD, 16GB, SSD 1TB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.499
+Link:  https://altex.ro/laptop-hp-fq0005nn-amd-ryzen-5-4500u-pana-la-4-0ghz-14-full-hd-16gb-ssd-1tb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP3B0R8EA/
+
+
+No:  35
+Title:  Laptop HP 14s-fq0006nq, AMD Ryzen 7 4700U pana la 4.2GHz, 14" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.499
+Link:  https://altex.ro/laptop-hp-14s-fq0006nq-amd-ryzen-7-4700u-pana-la-4-2ghz-14-full-hd-16gb-ssd-512gb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP1K5W5EA/
+
+
+No:  36
+Title:  Laptop 2 in 1 DELL Inspiron 7306, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD Touch, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, argintiu
+Price:  3.499
+Link:  https://altex.ro/laptop-2-in-1-dell-inspiron-7306-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-touch-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-argintiu/cpd/TPC73069245/
+
+
+No:  37
+Title:  Laptop LENOVO Yoga Slim 7 14ARE05, AMD Ryzen 5 4500U pana la 4.0GHz, 14" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, Orchid
+Price:  3.499
+Link:  https://altex.ro/laptop-lenovo-yoga-slim-7-14are05-amd-ryzen-5-4500u-pana-la-4-0ghz-14-full-hd-16gb-ssd-512gb-amd-radeon-graphics-windows-10-home-orchid/cpd/LAP82A2004FRM/
+
+
+No:  38
+Title:  Laptop DELL Latitude 5410, Intel Core i5-10310U pana la 4.4GHz, 14" Full HD Touch, 8GB, SSD 256GB, Intel UHD Graphics 620, Windows 10 Pro, gri
+Price:  3.499
+Link:  https://altex.ro/laptop-dell-latitude-5410-intel-core-i5-10310u-pana-la-4-4ghz-14-full-hd-touch-8gb-ssd-256gb-intel-uhd-graphics-620-windows-10-pro-gri/cpd/TPC54106341/
+
+
+No:  39
+Title:  Laptop ASUS ZenBook 14 UX425EA-KI467T, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Windows 10 Home, Lilac Mist
+Price:  3.498
+Link:  https://altex.ro/laptop-asus-zenbook-14-ux425ea-ki467t-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-windows-10-home-lilac-mist/cpd/LAPUX425EKI467T/
+
+
+No:  40
+Title:  Laptop HP ProBook 430 G7, Intel Core i5-10210U pana la 4.2GHz, 13.3" Full HD, 8GB, SSD 256GB, Intel UHD Graphics 620, Windows 10 Pro, argintiu
+Price:  3.498
+Link:  https://altex.ro/laptop-hp-probook-430-g7-intel-core-i5-10210u-pana-la-4-2ghz-13-3-full-hd-8gb-ssd-256gb-intel-uhd-graphics-620-windows-10-pro-argintiu/cpd/LAP8VT38EA/
+
+
+No:  41
+Title:  Laptop ASUS ZenBook 14 UX425EA-BM013T, Intel Core i5-1135G7 pana la 4.2GHz, 14" Full HD, 8GB, SSD 512GB, Intel Iris Xe, Windows 10 Home, Pine Grey
+Price:  3.498
+Link:  https://altex.ro/laptop-asus-zenbook-14-ux425ea-bm013t-intel-core-i5-1135g7-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-intel-iris-xe-windows-10-home-pine-grey/cpd/LAPUX425EBM013T/
+
+
+No:  42
+Title:  Laptop ASUS VivoBook 14 X403JA-BM023T, Intel Core i7-1065G7 pana la 3.9GHz, 14" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Windows 10 Home, Silver Blue
+Price:  3.399
+Link:  https://altex.ro/laptop-asus-vivobook-14-x403ja-bm023t-intel-core-i7-1065g7-pana-la-3-9ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-windows-10-home-silver-blue/cpd/LAPX403JABM023T/
+
+
+No:  43
+Title:  Laptop LENOVO IdeaPad 5 14ARE05, AMD Ryzen 7 4800U pana la 4.2GHz, 14" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Free DOS, gri platinum
+Price:  3.399
+Link:  https://altex.ro/laptop-lenovo-ideapad-5-14are05-amd-ryzen-7-4800u-pana-la-4-2ghz-14-full-hd-8gb-ssd-512gb-amd-radeon-graphics-free-dos-gri-platinum/cpd/LAP81YM00GBRM/
+
+
+No:  44
+Title:  Laptop HP ProBook 450 G8, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX450 2GB, Free DOS, argintiu
+Price:  3.399
+Link:  https://altex.ro/laptop-hp-probook-450-g8-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-mx450-2gb-free-dos-argintiu/cpd/LAP2X7X6EA/
+
+
+No:  45
+Title:  Laptop HP 245 G8, AMD Ryzen 5 3500U pana la 3.7GHz, 14" Full HD, 8GB, SSD 512GB, Radeon Vega 8 Graphics, Windows 10 Home, negru
+Price:  3.399
+Link:  https://altex.ro/laptop-hp-245-g8-amd-ryzen-5-3500u-pana-la-3-7ghz-14-full-hd-8gb-ssd-512gb-radeon-vega-8-graphics-windows-10-home-negru/cpd/LAP27J63EA/
+
+
+No:  46
+Title:  Laptop HP ProBook 450 G7, Intel Core i5-10210U pana la 4.2GHz, 15.6" Full HD, 16GB, 1TB + SSD 256GB, NVIDIA GeForce MX130 2GB, Free DOS, argintiu
+Price:  3.399
+Link:  https://altex.ro/laptop-hp-probook-450-g7-intel-core-i5-10210u-pana-la-4-2ghz-15-6-full-hd-16gb-1tb-ssd-256gb-nvidia-geforce-mx130-2gb-free-dos-argintiu/cpd/LAP2D296EA/
+
+
+No:  47
+Title:  Laptop ASUS ZenBook 14 UM433IQ-A5024T, AMD Ryzen 5 4500U pana la 4GHz, 14" Full HD, 8GB, SSD 512GB, NVIDIA GeForce MX350 2GB, Windows 10 Home, Light Grey
+Price:  3.399
+Link:  https://altex.ro/laptop-asus-zenbook-14-um433iq-a5024t-amd-ryzen-5-4500u-pana-la-4ghz-14-full-hd-8gb-ssd-512gb-nvidia-geforce-mx350-2gb-windows-10-home-light-grey/cpd/LAPUM433IA5024T/
+
+
+No:  48
+Title:  Laptop HP Pavilion 15-eh1009nq, AMD Ryzen 5 5500U pana la 4.0GHz, 15.6" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.299
+Link:  https://altex.ro/laptop-hp-pavilion-15-eh1009nq-amd-ryzen-5-5500u-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAP3E3U7EA/
+
+
+No:  49
+Title:  Laptop ASUS VivoBook 15 M513IA-EJ056T, AMD Ryzen 5 4500U pana la 4.0GHz, 15.6" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, negru
+Price:  3.299
+Link:  https://altex.ro/laptop-asus-vivobook-15-m513ia-ej056t-amd-ryzen-5-4500u-pana-la-4-0ghz-15-6-full-hd-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-negru/cpd/LAPM513IAEJ056T/
+
+
+No:  50
+Title:  Laptop HP Pavilion 15-eh1008nq, AMD Ryzen 5 5500U pana la 4.0GHz, 15.6" Full HD, 16GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, albastru
+Price:  3.299
+Link:  https://altex.ro/laptop-hp-pavilion-15-eh1008nq-amd-ryzen-5-5500u-pana-la-4-0ghz-15-6-full-hd-16gb-ssd-512gb-amd-radeon-graphics-windows-10-home-albastru/cpd/LAP3E3U6EA/
+
+
+No:  51
+Title:  Laptop ASUS VivoBook S15 S533EA-BN102, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, negru
+Price:  3.299
+Link:  https://altex.ro/laptop-asus-vivobook-s15-s533ea-bn102-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-negru/cpd/LAPS533EABN102/
+
+
+No:  52
+Title:  Laptop ACER Aspire 5 A515-56-51G1, Intel Core i5-1135G7 pana la 4.2GHz, 15.6" Full HD, 16GB, SSD 1TB, Intel Iris Xe Graphics, Free DOS, negru
+Price:  3.299
+Link:  https://altex.ro/laptop-acer-aspire-5-a515-56-51g1-intel-core-i5-1135g7-pana-la-4-2ghz-15-6-full-hd-16gb-ssd-1tb-intel-iris-xe-graphics-free-dos-negru/cpd/LAPNXA18EX008/
+
+
+No:  53
+Title:  Laptop LENOVO IdeaPad 5 14ITL05, Intel Core i7-1165G47 pana la 4.7GHz, 14" Full HD, 8GB, SSD 512GB, Intel UHD Graphics, Free DOS, gri
+Price:  3.249
+Link:  https://altex.ro/laptop-lenovo-ideapad-5-14itl05-intel-core-i7-1165g47-pana-la-4-7ghz-14-full-hd-8gb-ssd-512gb-intel-uhd-graphics-free-dos-gri/cpd/LAP82FE008WRM/
+
+
+No:  54
+Title:  Laptop ASUS ZenBook Duo UX481FA-HJ048T, Intel Core i5-10210U pana la 4.2GHz, 14" Full HD Touch, 8GB, SSD 512GB, Intel UHD Graphics 620, Windows 10 Home, Celestial Blue
+Price:  3.249
+Link:  https://altex.ro/laptop-asus-zenbook-duo-ux481fa-hj048t-intel-core-i5-10210u-pana-la-4-2ghz-14-full-hd-touch-8gb-ssd-512gb-intel-uhd-graphics-620-windows-10-home-celestial-blue/cpd/LAPUX481FHJ048T/
+
+
+No:  55
+Title:  Laptop 2 in 1 DELL Inspiron 5406, Intel Core i3-1115G4 pana la 4.1GHz, 14" Full HD Touch, 4GB, SSD 256GB, Intel UHD Graphics , Windows 10 Home, gri
+Price:  3.249
+Link:  https://altex.ro/laptop-2-in-1-dell-inspiron-5406-intel-core-i3-1115g4-pana-la-4-1ghz-14-full-hd-touch-4gb-ssd-256gb-intel-uhd-graphics-windows-10-home-gri/cpd/TPC54069177/
+
+
+No:  56
+Title:  Laptop LENOVO IdeaPad 5 14IIL05, Intel Core i5-1035G1 pana la 3.6GHz, 14" Full HD, 16GB, SSD 1TB, NVIDIA GeForce MX350 2GB, Free DOS, gri
+Price:  3.199
+Link:  https://altex.ro/laptop-lenovo-ideapad-5-14iil05-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-16gb-ssd-1tb-nvidia-geforce-mx350-2gb-free-dos-gri/cpd/LAP81YH00D9RM/
+
+
+No:  57
+Title:  Laptop DELL Vostro 5401, Intel Core i5-1035G1 pana la 3.6GHz, 14" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Pro, gri
+Price:  3.199
+Link:  https://altex.ro/laptop-dell-vostro-5401-intel-core-i5-1035g1-pana-la-3-6ghz-14-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-10-pro-gri/cpd/LAP54014106/
+
+
+No:  58
+Title:  Laptop MICROSOFT Surface 3, AMD Ryzen 5 3580U pana la 3.7GHz, 15" Touch, 8GB, SSD 256GB, AMD Radeon Vega 9 Graphics, Windows 10 Home, negru
+Price:  3.199
+Link:  https://altex.ro/laptop-microsoft-surface-3-amd-ryzen-5-3580u-pana-la-3-7ghz-15-touch-8gb-ssd-256gb-amd-radeon-vega-9-graphics-windows-10-home-negru/cpd/LAPVGZ00029/
+
+
+No:  59
+Title:  Laptop HP Pavilion 13-bb0021nq, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD, 16GB, SSD 512GB, Intel Iris Xe Graphics, Free DOS, argintiu
+Price:  3.199
+Link:  https://altex.ro/laptop-hp-pavilion-13-bb0021nq-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-16gb-ssd-512gb-intel-iris-xe-graphics-free-dos-argintiu/cpd/LAP3A8R4EA/
+
+
+No:  60
+Title:  Laptop MICROSOFT Surface 3, Intel Core i5-1035G7 pana la 3.7GHz, 13.5" Touch, 8GB, SSD 256GB, Intel Iris Plus Graphics, Windows 10 Home, negru mat
+Price:  3.199
+Link:  https://altex.ro/laptop-microsoft-surface-3-intel-core-i5-1035g7-pana-la-3-7ghz-13-5-touch-8gb-ssd-256gb-intel-iris-plus-graphics-windows-10-home-negru-mat/cpd/LAPV4C00029/
+
+
+No:  61
+Title:  Laptop ASUS Zenbook 13 OLED UX325EA-KG264, Intel Core i5-1135G7 pana la 4.2GHz, 13.3" Full HD, 8GB, SSD 512GB, Intel Iris Xe Graphics, Free Dos, gri
+Price:  3.198
+Link:  https://altex.ro/laptop-asus-zenbook-13-oled-ux325ea-kg264-intel-core-i5-1135g7-pana-la-4-2ghz-13-3-full-hd-8gb-ssd-512gb-intel-iris-xe-graphics-free-dos-gri/cpd/LAPUX325EAKG264/
+
+
+No:  62
+Title:  Laptop ACER Swift 3 SF314-42-R6X3, AMD Ryzen 5 4500U pana la 4GHz, 14" Full HD, 8GB, SSD 512GB, AMD Radeon Graphics, Windows 10 Home, argintiu
+Price:  3.099
+Link:  https://altex.ro/laptop-acer-swift-3-sf314-42-r6x3-amd-ryzen-5-4500u-pana-la-4ghz-14-full-hd-8gb-ssd-512gb-amd-radeon-graphics-windows-10-home-argintiu/cpd/LAPNXHSEEX002/
+
+
+No:  63
+Title:  Laptop LENOVO Legion Y530-15ICH, Intel Core i5-8300H pana la 4.0GHz, 15.6" Full HD, 8GB, SSD 512GB, NVIDIA GeForce GTX 1060 6GB, Free Dos, negru
+Price:  3.099
+Link:  https://altex.ro/laptop-lenovo-legion-y530-15ich-intel-core-i5-8300h-pana-la-4-0ghz-15-6-full-hd-8gb-ssd-512gb-nvidia-geforce-gtx-1060-6gb-free-dos-negru/cpd/LAP81LB006XRM/
+
+
+No:  64
+Title:  Laptop ACER Swift 3 SF313-52-53R1, Intel Core i5-1035G4 pana la 3.7GHz, 13.5" QHD, 8GB, SSD 512GB, Intel Iris Plus Graphics, Windows 10 Home, argintiu
+Price:  3.099
+Link:  https://altex.ro/laptop-acer-swift-3-sf313-52-53r1-intel-core-i5-1035g4-pana-la-3-7ghz-13-5-qhd-8gb-ssd-512gb-intel-iris-plus-graphics-windows-10-home-argintiu/cpd/LAPNXHQWEX00E/
+
+
+No:  65
+Title:  Laptop ASUS A509JA-EJ078T, Intel Core i5-1035G1 pana la 3.6GHz, 15.6" Full HD, 8GB, SSD 256GB, Intel UHD Graphics, Windows 10 Home, argintiu
+Price:  3.099
+Link:  https://altex.ro/laptop-asus-a509ja-ej078t-intel-core-i5-1035g1-pana-la-3-6ghz-15-6-full-hd-8gb-ssd-256gb-intel-uhd-graphics-windows-10-home-argintiu/cpd/LAPA509JAEJ078T/
+
+
+No:  66
+Title:  Laptop MICROSOFT Surface Go, Intel Core i5-1035G1 pana la 3.6GHz, 12.4" Touch, 4GB, eMMC 64GB, Intel UHD Graphics, Windows 10 S, albastru deschis
+Price:  3.099
+Link:  https://altex.ro/laptop-microsoft-surface-go-intel-core-i5-1035g1-pana-la-3-6ghz-12-4-touch-4gb-emmc-64gb-intel-uhd-graphics-windows-10-s-albastru-deschis/cpd/LAP1ZO00024/
+
+
+No:  67
+Title:  Laptop MICROSOFT Surface Go, Intel Core i5-1035G1 pana la 3.6GHz, 12.4" Touch, 8GB, SSD 128GB, Intel UHD Graphics, Windows 10 S, albastru deschis
+Price:  3.024
+Link:  https://altex.ro/laptop-microsoft-surface-go-intel-core-i5-1035g1-pana-la-3-6ghz-12-4-touch-8gb-ssd-128gb-intel-uhd-graphics-windows-10-s-albastru-deschis/cpd/LAPTHH00046/
+
+
